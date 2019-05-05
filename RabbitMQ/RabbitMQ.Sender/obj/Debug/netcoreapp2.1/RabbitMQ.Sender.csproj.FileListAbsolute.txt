@@ -1,0 +1,11 @@
+D:\Rabbit_MQ_SetUp\Send\RabbitMQ\RabbitMQ.Sender\bin\Debug\netcoreapp2.1\RabbitMQ.Sender.deps.json
+D:\Rabbit_MQ_SetUp\Send\RabbitMQ\RabbitMQ.Sender\bin\Debug\netcoreapp2.1\RabbitMQ.Sender.runtimeconfig.json
+D:\Rabbit_MQ_SetUp\Send\RabbitMQ\RabbitMQ.Sender\bin\Debug\netcoreapp2.1\RabbitMQ.Sender.runtimeconfig.dev.json
+D:\Rabbit_MQ_SetUp\Send\RabbitMQ\RabbitMQ.Sender\bin\Debug\netcoreapp2.1\RabbitMQ.Sender.dll
+D:\Rabbit_MQ_SetUp\Send\RabbitMQ\RabbitMQ.Sender\obj\Debug\netcoreapp2.1\RabbitMQ.Sender.csprojAssemblyReference.cache
+D:\Rabbit_MQ_SetUp\Send\RabbitMQ\RabbitMQ.Sender\obj\Debug\netcoreapp2.1\RabbitMQ.Sender.csproj.CoreCompileInputs.cache
+D:\Rabbit_MQ_SetUp\Send\RabbitMQ\RabbitMQ.Sender\obj\Debug\netcoreapp2.1\RabbitMQ.Sender.AssemblyInfoInputs.cache
+D:\Rabbit_MQ_SetUp\Send\RabbitMQ\RabbitMQ.Sender\obj\Debug\netcoreapp2.1\RabbitMQ.Sender.AssemblyInfo.cs
+D:\Rabbit_MQ_SetUp\Send\RabbitMQ\RabbitMQ.Sender\bin\Debug\netcoreapp2.1\RabbitMQ.Sender.pdb
+D:\Rabbit_MQ_SetUp\Send\RabbitMQ\RabbitMQ.Sender\obj\Debug\netcoreapp2.1\RabbitMQ.Sender.dll
+D:\Rabbit_MQ_SetUp\Send\RabbitMQ\RabbitMQ.Sender\obj\Debug\netcoreapp2.1\RabbitMQ.Sender.pdb
